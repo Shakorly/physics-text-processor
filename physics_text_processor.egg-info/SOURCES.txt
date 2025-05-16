@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+physics_text_processor.egg-info/PKG-INFO
+physics_text_processor.egg-info/SOURCES.txt
+physics_text_processor.egg-info/dependency_links.txt
+physics_text_processor.egg-info/requires.txt
+physics_text_processor.egg-info/top_level.txt
